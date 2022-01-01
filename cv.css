@@ -1,0 +1,64 @@
+body
+{
+	background-color: rgba(183,79,191,0.5);
+	text-align: justify;
+}
+#cv
+{
+	text-align: center;
+	color: blue;
+	font: italic;
+	font-weight: 10px;
+	text-shadow: 0px 6px 5px #1c1a19;
+	background: purple;
+}
+body h2
+{
+	margin-left: 170px;
+	font-family: "Times New Roman";
+	font-style: italic;
+	background: purple;
+}
+nav
+{
+	width: 100%;
+	text-align: center;
+	background-color:purple;
+}
+nav ul
+{
+	list-style-type: none;
+}
+nav li
+{
+	display: inline-block;
+	margin-right: 15px;
+}
+nav a
+{
+	font-size: 1em;
+	color: skyblue;
+	padding-bottom: 4px;
+	text-decoration: none;
+}
+#photo
+{
+	box-shadow: 0px 6px 5px #1c1a19;
+	border: 2px solid #181818;
+	width: 200px;
+	height: 200px;
+	border-radius: 5px
+}
+div,#photo
+{
+	display: inline-block;
+}
+div p,li
+{
+	margin-left: 170px;
+}
+p
+{
+	margin-right: auto;
+	margin-left: auto;
+}
