@@ -1,0 +1,40 @@
+body
+{
+	text-align: justify;
+	background-color: rgba(183,79,191,0.5);
+}
+#bio
+{
+	text-align: center;
+	color: blue;
+	font: italic;
+	font-weight: 10px;
+	text-shadow: 0px 6px 5px #1c1a19;
+	background: purple;
+}
+strong
+{
+	font-style: italic;
+}
+nav
+{
+	width: 100%;
+	text-align: center;
+	background-color:purple;
+}
+nav ul
+{
+	list-style-type: none;
+}
+nav li
+{
+	display: inline-block;
+	margin-right: 15px;
+}
+nav a
+{
+	font-size: 1em;
+	color: skyblue;
+	padding-bottom: 4px;
+	text-decoration: none;
+}
